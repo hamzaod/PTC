@@ -3,7 +3,7 @@ How to use:
 1) Clone this project and export all file inside your maven repo:
 com/ptc/devoir/solution/1.0
 
-2) Create a new wave project and add this dependency inside pom.xml file:
+2) Create a new maven project and add this dependency inside pom.xml file:
 
 <dependencies>
         <dependency>
